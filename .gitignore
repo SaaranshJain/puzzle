@@ -1,0 +1,8 @@
+*.png
+*.jpg
+.vscode
+__pycache__
+build
+dist
+pzlenv
+*.spec
